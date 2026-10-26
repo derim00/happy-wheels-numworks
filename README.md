@@ -1,18 +1,15 @@
 # Happy Wheels pour NumWorks (.nwa)
 
-Portage de **Happy Wheels** (version mobile 1.1.2, celle de ton archive Vita) sur
-calculatrice **NumWorks**, jouable avec les touches de la calculatrice.
+posté par Derim (irationnel) discord.gg/derim
+Fait par yami(cjnw) discord.gg/sti2d
 
-**Crédits :**
-- discord.gg/sti2d
-- discord : cjnw (yamii)
-- Jeu original : Fancy Force / Jim Bonacci (Happy Wheels)
 
 Les crédits s'affichent sur l'écran titre, dans les menus de sélection et dans le menu pause.
 
 ---
 
-## Installation
+## Installation 
+( vous avez besoin de nwagra ! car fichier trop lourd )
 
 1. Branche la calculatrice en USB.
 2. Ouvre <https://my.numworks.com/apps> dans Chrome ou Edge, puis envoie `HappyWheels.nwa`.
